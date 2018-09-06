@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "jest",
     "serve": "node ./index.js",
     "start": "nodemon node ./index.js"
   },
