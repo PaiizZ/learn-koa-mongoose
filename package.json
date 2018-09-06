@@ -15,5 +15,8 @@
     "koa-router": "^7.4.0",
     "mongoose": "^5.2.13",
     "nodemon": "^1.18.4"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0"
   }
 }
